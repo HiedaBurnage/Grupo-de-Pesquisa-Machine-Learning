@@ -1,5 +1,5 @@
 # Grupo-de-Pesquisa-Machine-Learning
-Grupo de Pesquisa em Machine Learning: Nossa missão é melhorar significativamente a vida das pessoas através do nosso trabalho, pesquisas, em Inteligência Artificial.
+Nossa missão é melhorar significativamente a vida das pessoas através do nosso trabalho, pesquisas, em Inteligência Artificial.
 - ATENCAO:  REUNIAO VIRTUAL\
 DATA: 10/04/2020\
 HORA: 14h (horário de Brasilia)\ 
